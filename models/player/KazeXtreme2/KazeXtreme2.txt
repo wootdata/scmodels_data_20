@@ -1,0 +1,75 @@
+August 26, 2000
+================================================================
+Model Name              : KazeXtreme2
+installation directory  : half-life/valve/models/players/<DIR HERE>
+Author                  : Daniel "KazeXtreme" Fields
+Skin Author : <Skinners name>  *only if different to modeler*
+Email Address           : spitfire@dimensional.com
+
+Model description       : This model is based off the MSN-04 Gundam suit, codenamed Sazabi
+
+
+Other info              : <OTHER STUFF>
+
+Additional Credits to   : Milkshape 3D, Photoshop
+
+Thanks to               : <PPL TO THANK>
+================================================================
+* Play Information *
+
+New Sounds              : <YES/NO>
+CTF Skins               : <YES/NO>
+VWEP Support            : <YES/NO>
+
+
+* Construction *
+Poly Count              : <### polys>
+Vert Count              : <### Verts>
+Skin Count              : <## Skins>
+Base                    : <New model or modified exsisting model>
+Editor used             : <What editors you used>
+Known Bugs              : <Any bugs>
+Build/Animation time    : <time>
+
+
+* How to use this model *
+
+This model is for both deathmatch and for counter-strike. 
+
+------------------------------------------
+| INSTALLATION INSTRUCTIONS - DEATHMATCH |
+------------------------------------------
+
+For deathmatch install simply unpak the zip file to the half-life/valve/models/players/
+
+directory making sure that you have "use folder names" checked. 
+
+
+--------------------------------------------------
+| INSTALLATION INSTRUCTIONS - COUNTER-STRIKE     |
+--------------------------------------------------
+
+Rename the KAZEXTREME2.MDL according to who you want to replace
+
+i.e. arab.mdl, terror.mdl, gsgn.mdl, gign.mdl, etc. and put them in the;
+
+Halflife\cstrike\models\player\arab
+                               arctic
+                               gign
+                               gsg9
+                               sas
+                               terror
+                               urban
+                               vip
+
+
+directories accordingly
+
+
+* Copyright / Permissions *
+
+This model was built from scratch except the skeletal system which was adobted from a base model for Counter-Strike B6.x
+
+If you wish to use this model for any means other than simple play, please contact me for authority.
+
+
