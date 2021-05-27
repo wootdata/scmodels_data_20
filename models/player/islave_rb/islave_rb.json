@@ -1,1 +1,1 @@
-{"seq_groups": 1, "hash": "730a2fad55ab203999062b9483b51624", "tri_count": "1236"}
+{"events": [{"frame": "19", "file": "aslave/slv_word5.wav", "seq": "28"}, {"frame": "52", "file": "aslave/slv_word7.wav", "seq": "28"}, {"frame": "9", "file": "aslave/slv_word3.wav", "seq": "29"}, {"frame": "39", "file": "aslave/slv_word4.wav", "seq": "29"}], "hash": "4657116a6125de6fd10a9963572e8bac", "seq_groups": 1, "tri_count": "1236"}
