@@ -1,0 +1,8 @@
+This model is made by MajinZGohan(a.k.a LunarWolfX)  Feel free to edit this model, just as long
+as you give proper credits to me.
+
+Credits to the t.s team for the skel, and everyone on the esf forums, ntp forums, and zeq2 forums
+for their criticism and comments.  
+
+INSTALL- to install, just place the sasuke folder in the models/player folder, and run t.s
+and go to customize.  Then pick sasuke as your model.
