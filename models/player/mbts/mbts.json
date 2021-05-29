@@ -1,1 +1,817 @@
-{"seq_groups": 1, "hash": "d6fc1729a2de3fb6542e9d44b4fadccc", "tri_count": "1202"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "car",
+					"polys": 1202,
+					"verts": 817
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "d6fc1729a2de3fb6542e9d44b4fadccc",
+	"name": "Lowrider.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_1"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_2"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_3"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_4"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_5"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_6"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_7"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_8"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_9"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_10"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_11"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_12"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_13"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_14"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_15"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_16"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_17"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_18"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_19"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_20"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_21"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_22"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_23"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_24"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_25"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_26"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_27"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_28"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_29"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_30"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_31"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_32"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_33"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_34"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_35"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_36"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_37"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_38"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_39"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_40"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_41"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_42"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_43"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_44"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_45"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_46"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_47"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_48"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_49"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_50"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_51"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_52"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_53"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_54"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_55"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_56"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_57"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_58"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_59"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_60"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_61"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_62"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_63"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_64"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_65"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_66"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_67"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_68"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_69"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_70"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_71"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_72"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_73"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_74"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_75"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_76"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_77"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_78"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_79"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_80"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_81"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_82"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_83"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_84"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_85"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_86"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_87"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_88"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_89"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_90"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_91"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_92"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_93"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_94"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_95"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_96"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_97"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_98"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_99"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_100"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_101"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_102"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_103"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_104"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_105"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_106"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_107"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_108"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_109"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_110"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_111"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_112"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_113"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_114"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_115"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_116"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_117"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_118"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_119"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_120"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_121"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_122"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_123"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_124"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_125"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_126"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_127"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_128"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_129"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_130"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_131"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_132"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_133"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_134"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_135"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_136"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_137"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_138"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_139"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_140"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_141"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_142"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_143"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_144"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_145"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_146"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_147"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_148"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_149"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_150"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_151"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_152"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "run2_153"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 511,
+			"name": "main_camo_desert.bmp",
+			"width": 508
+		}, 
+		{
+			"flags": 0,
+			"height": 509,
+			"name": "head_camo_desert.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 255,
+			"name": "kette1.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}

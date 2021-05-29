@@ -1,1 +1,69 @@
-{"seq_groups": 1, "hash": "8be0339abde7f94fc4df580c374fd7c9", "tri_count": "441"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "sub2(ref)",
+					"polys": 441,
+					"verts": 242
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "8be0339abde7f94fc4df580c374fd7c9",
+	"name": "D:\\Documents and Settings\\Administrator\\Desktop\\laguna\\sub\\lag_s°j",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "idle1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "joint1",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "skin_hatch.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "skin_fins.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "skin_hole.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "skin_bulk.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "skin_dorsal.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}

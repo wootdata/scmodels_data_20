@@ -1,1 +1,1849 @@
-{"seq_groups": 1, "hash": "e3a358b01b9a3e78d5a21c541b0fa1e2", "tri_count": "7711", "events": [{"seq": "21", "frame": "11", "file": "items/cliprelease1.wav"}, {"seq": "21", "frame": "39", "file": "items/clipinsert1.wav"}, {"seq": "22", "frame": "7", "file": "weapons/scock1.wav"}, {"seq": "23", "frame": "7", "file": "weapons/scock1.wav"}, {"seq": "24", "frame": "11", "file": "weapons/reload1.wav"}, {"seq": "24", "frame": "29", "file": "weapons/reload3.wav"}, {"seq": "24", "frame": "39", "file": "weapons/reload1.wav"}, {"seq": "42", "frame": "1", "file": "hgrunt/gr_die1.wav"}, {"seq": "42", "frame": "13", "file": "hgrunt/gr_pain4.wav"}, {"seq": "42", "frame": "24", "file": "hgrunt/gr_die2.wav"}, {"seq": "42", "frame": "62", "file": "hgrunt/gr_die1.wav"}, {"seq": "55", "frame": "20", "file": "debris/bustflesh1.wav"}, {"seq": "79", "frame": "25", "file": "weapons/electro4.wav"}]}
+{
+	"attachments": [
+		{
+			"bone": 35,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 35,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 51,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "hgrunt_body_ref",
+					"polys": 2546,
+					"verts": 1326
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "hgrunt_head_mask_ref",
+					"polys": 676,
+					"verts": 407
+				}, 
+				{
+					"name": "hgrunt_head_commander_ref",
+					"polys": 514,
+					"verts": 295
+				}, 
+				{
+					"name": "hgrunt_head_shotgun_ref",
+					"polys": 794,
+					"verts": 452
+				}, 
+				{
+					"name": "hgrunt_head_grunt_ref",
+					"polys": 764,
+					"verts": 428
+				}
+			],
+			"name": "heads"
+		}, 
+		{
+			"models": [
+				{
+					"name": "hgrunt_m4_Reference",
+					"polys": 300,
+					"verts": 196
+				}, 
+				{
+					"name": "dc_soldier_shotgun_reference",
+					"polys": 626,
+					"verts": 335
+				}, 
+				{
+					"name": "blank",
+					"polys": 0,
+					"verts": 0
+				}, 
+				{
+					"name": "_ref_weapon_rpg",
+					"polys": 229,
+					"verts": 157
+				}, 
+				{
+					"name": "mp5_p",
+					"polys": 1262,
+					"verts": 663
+				}
+			],
+			"name": "weapons"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 51,
+			"end": 70.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -70.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 52,
+			"end": 20.000000,
+			"index": 4,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
+		}
+	],
+	"events": [
+		{
+			"event": 8,
+			"frame": 24,
+			"options": "",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 7,
+			"frame": 34,
+			"options": "",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 3,
+			"frame": 13,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2010,
+			"frame": 13,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 0,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 2,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 4,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "21",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "21",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "21",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 0,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 2,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 4,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "21",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "21",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "21",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 0,
+			"options": "",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 0,
+			"options": "",
+			"sequence": 20,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 20,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 41,
+			"options": "",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 11,
+			"options": "items/cliprelease1.wav",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 39,
+			"options": "items/clipinsert1.wav",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 1,
+			"options": "",
+			"sequence": 22,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "51",
+			"sequence": 22,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 7,
+			"options": "weapons/scock1.wav",
+			"sequence": 22,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 1,
+			"options": "",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "51",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 7,
+			"options": "weapons/scock1.wav",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 41,
+			"options": "",
+			"sequence": 24,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 11,
+			"options": "weapons/reload1.wav",
+			"sequence": 24,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 29,
+			"options": "weapons/reload3.wav",
+			"sequence": 24,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 39,
+			"options": "weapons/reload1.wav",
+			"sequence": 24,
+			"type": 0
+		}, 
+		{
+			"event": 10,
+			"frame": 7,
+			"options": "",
+			"sequence": 25,
+			"type": 0
+		}, 
+		{
+			"event": 9,
+			"frame": 31,
+			"options": "",
+			"sequence": 28,
+			"type": 0
+		}, 
+		{
+			"event": 11,
+			"frame": 5,
+			"options": "",
+			"sequence": 35,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 17,
+			"options": "",
+			"sequence": 35,
+			"type": 0
+		}, 
+		{
+			"event": 11,
+			"frame": 12,
+			"options": "",
+			"sequence": 36,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 19,
+			"options": "",
+			"sequence": 36,
+			"type": 0
+		}, 
+		{
+			"event": 11,
+			"frame": 3,
+			"options": "",
+			"sequence": 37,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 10,
+			"options": "",
+			"sequence": 37,
+			"type": 0
+		}, 
+		{
+			"event": 11,
+			"frame": 6,
+			"options": "",
+			"sequence": 38,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 12,
+			"options": "",
+			"sequence": 38,
+			"type": 0
+		}, 
+		{
+			"event": 11,
+			"frame": 1,
+			"options": "",
+			"sequence": 39,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 20,
+			"options": "",
+			"sequence": 39,
+			"type": 0
+		}, 
+		{
+			"event": 11,
+			"frame": 0,
+			"options": "",
+			"sequence": 40,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 29,
+			"options": "",
+			"sequence": 40,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 1,
+			"options": "hgrunt/gr_die1.wav",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 9,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 9,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 11,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 11,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 13,
+			"options": "hgrunt/gr_pain4.wav",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 13,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 13,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 15,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 15,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 23,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 23,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 24,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 24,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 24,
+			"options": "hgrunt/gr_die2.wav",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 25,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 25,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 41,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 41,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 43,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 43,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 47,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 47,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 60,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 60,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 62,
+			"options": "hgrunt/gr_die1.wav",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 62,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 62,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 64,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 64,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 67,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 67,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 68,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 68,
+			"options": "50",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 0,
+			"options": "",
+			"sequence": 51,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 2,
+			"options": "",
+			"sequence": 51,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 4,
+			"options": "",
+			"sequence": 51,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "",
+			"sequence": 51,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "",
+			"sequence": 51,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "",
+			"sequence": 51,
+			"type": 0
+		}, 
+		{
+			"event": 1000,
+			"frame": 1,
+			"options": "",
+			"sequence": 55,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 20,
+			"options": "debris/bustflesh1.wav",
+			"sequence": 55,
+			"type": 0
+		}, 
+		{
+			"event": 1000,
+			"frame": 1,
+			"options": "",
+			"sequence": 56,
+			"type": 0
+		}, 
+		{
+			"event": 1001,
+			"frame": 0,
+			"options": "",
+			"sequence": 67,
+			"type": 0
+		}, 
+		{
+			"event": 1000,
+			"frame": 0,
+			"options": "",
+			"sequence": 67,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 0,
+			"options": "",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 2,
+			"options": "",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 4,
+			"options": "",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 14,
+			"options": "",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 16,
+			"options": "",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 18,
+			"options": "",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 0,
+			"options": "",
+			"sequence": 71,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 2,
+			"options": "",
+			"sequence": 71,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 4,
+			"options": "",
+			"sequence": 71,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 14,
+			"options": "",
+			"sequence": 71,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 16,
+			"options": "",
+			"sequence": 71,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 18,
+			"options": "",
+			"sequence": 71,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 5,
+			"options": "break",
+			"sequence": 74,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 38,
+			"options": "switch",
+			"sequence": 78,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 29,
+			"options": "zap",
+			"sequence": 79,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 25,
+			"options": "weapons/electro4.wav",
+			"sequence": 79,
+			"type": 0
+		}, 
+		{
+			"event": 1000,
+			"frame": 1,
+			"options": "",
+			"sequence": 80,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 1,
+			"options": "",
+			"sequence": 86,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 6,
+			"options": "",
+			"sequence": 86,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 12,
+			"options": "",
+			"sequence": 86,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "50",
+			"sequence": 86,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 86,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 12,
+			"options": "50",
+			"sequence": 86,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 13,
+			"options": "00xy_frontkick",
+			"sequence": 87,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "e3a358b01b9a3e78d5a21c541b0fa1e2",
+	"name": "swat.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 35.000000,
+			"frames": 86,
+			"name": "walk1"
+		}, 
+		{
+			"fps": 45.000000,
+			"frames": 25,
+			"name": "run"
+		}, 
+		{
+			"fps": 5.000000,
+			"frames": 13,
+			"name": "victorydance"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "cower"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 11,
+			"name": "smflinch"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 11,
+			"name": "leftlegsmflinch"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 11,
+			"name": "rightlegsmflinch"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 11,
+			"name": "rightarmflinch"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 11,
+			"name": "leftarmflinch"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 46,
+			"name": "launchgrenade"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 56,
+			"name": "throwgrenade"
+		}, 
+		{
+			"fps": 4.000000,
+			"frames": 73,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 4.000000,
+			"frames": 16,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 11,
+			"name": "combatidle"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "frontkick"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "crouching_idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 4,
+			"name": "crouching_wait"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 13,
+			"name": "crouching_m16a2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 13,
+			"name": "standing_m16a2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 13,
+			"name": "crouching_mp5"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 13,
+			"name": "standing_mp5"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 61,
+			"name": "reload_mp5"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 13,
+			"name": "crouching_shotgun"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 13,
+			"name": "standing_shotgun"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 61,
+			"name": "reload_shotgun"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 25,
+			"name": "advance_signal"
+		}, 
+		{
+			"fps": 19.000000,
+			"frames": 25,
+			"name": "flank_signal"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 25,
+			"name": "retreat_signal"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 56,
+			"name": "drop_grenade"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 43,
+			"name": "limpingwalk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 18,
+			"name": "limpingrun"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 13,
+			"name": "180L"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 13,
+			"name": "180R"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "strafeleft"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "straferight"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 26,
+			"name": "dieback1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 40,
+			"name": "dieforward"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 26,
+			"name": "diesimple"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 34,
+			"name": "diebackwards"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "dieheadshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 72,
+			"name": "diegutshot"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnacled1"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnacled2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnacled3"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnacled4"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "dead_on_stomach"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "deadstomach"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "deadside"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "deadsitting"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 21,
+			"name": "repel_jump"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 8,
+			"name": "repel_repel"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 9,
+			"name": "repel_shoot"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 11,
+			"name": "repel_land"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 13,
+			"name": "repel_die"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "dragholeidle"
+		}, 
+		{
+			"fps": 5.000000,
+			"frames": 21,
+			"name": "draghole"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 20,
+			"name": "bustwall"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 26,
+			"name": "hoprail"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 16,
+			"name": "converse1"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 16,
+			"name": "converse2"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 6,
+			"name": "startleleft"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 6,
+			"name": "startleright"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 31,
+			"name": "divecover"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 20,
+			"name": "defuse"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 11,
+			"name": "corner1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "corner2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 126,
+			"name": "stone_toss"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 61,
+			"name": "cliffdie"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 11,
+			"name": "diveaside_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 191,
+			"name": "diveaside"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "kneeldive_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 99,
+			"name": "kneeldive"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 46,
+			"name": "WM_button"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 118,
+			"name": "WM_moatjump"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 31,
+			"name": "bustwindow"
+		}, 
+		{
+			"fps": 28.000000,
+			"frames": 41,
+			"name": "dragright"
+		}, 
+		{
+			"fps": 28.000000,
+			"frames": 41,
+			"name": "dragleft"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 16,
+			"name": "trackwave"
+		}, 
+		{
+			"fps": 28.000000,
+			"frames": 39,
+			"name": "trackdive"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 30,
+			"name": "flyback"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "impaled"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 35,
+			"name": "jumptracks"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 56,
+			"name": "pipetoss"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 39,
+			"name": "plunger"
+		}, 
+		{
+			"fps": 28.000000,
+			"frames": 127,
+			"name": "soldier_dump"
+		}, 
+		{
+			"fps": 28.000000,
+			"frames": 1,
+			"name": "soldier_dump_idle"
+		}, 
+		{
+			"fps": 32.000000,
+			"frames": 20,
+			"name": "soldier_shoot_ahead"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 31,
+			"name": "soldier_kick"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger2",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger21",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 L Finger22",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Finger3",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger31",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 L Finger32",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 L Finger4",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger41",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 L Finger42",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 35
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 36
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 37
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 35
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 39
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 40
+		}, 
+		{
+			"name": "Bip01 R Finger2",
+			"parent": 35
+		}, 
+		{
+			"name": "Bip01 R Finger21",
+			"parent": 42
+		}, 
+		{
+			"name": "Bip01 R Finger22",
+			"parent": 43
+		}, 
+		{
+			"name": "Bip01 R Finger3",
+			"parent": 35
+		}, 
+		{
+			"name": "Bip01 R Finger31",
+			"parent": 45
+		}, 
+		{
+			"name": "Bip01 R Finger32",
+			"parent": 46
+		}, 
+		{
+			"name": "Bip01 R Finger4",
+			"parent": 35
+		}, 
+		{
+			"name": "Bip01 R Finger41",
+			"parent": 48
+		}, 
+		{
+			"name": "Bip01 R Finger42",
+			"parent": 49
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Mouth",
+			"parent": 51
+		}, 
+		{
+			"name": "R_eye",
+			"parent": 51
+		}, 
+		{
+			"name": "L_eye",
+			"parent": 51
+		}, 
+		{
+			"name": "E_lids",
+			"parent": 51
+		}, 
+		{
+			"name": "p_rpg",
+			"parent": 35
+		}, 
+		{
+			"name": "Line04",
+			"parent": 35
+		}
+	],
+	"skins": 2,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 192,
+			"name": "soldier_boots.bmp",
+			"width": 192
+		}, 
+		{
+			"flags": 0,
+			"height": 63,
+			"name": "soldier_holster_pistol.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 83,
+			"name": "soldier_holster.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 131,
+			"name": "soldier_backpack.bmp",
+			"width": 240
+		}, 
+		{
+			"flags": 0,
+			"height": 125,
+			"name": "wp_grenade.bmp",
+			"width": 120
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "soldier_pouches.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "soldier_arm_wht.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 192,
+			"name": "soldier_hand_wht.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 254,
+			"name": "swat.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 32,
+			"height": 58,
+			"name": "soldier_mask_lens.bmp",
+			"width": 140
+		}, 
+		{
+			"flags": 0,
+			"height": 129,
+			"name": "wp_m4_3.bmp",
+			"width": 124
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "wp_m4_2.bmp",
+			"width": 124
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "soldier_head_grunt_wht.bmp",
+			"width": 384
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "soldier_neck_cover.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 192,
+			"name": "soldier_helmet.bmp",
+			"width": 96
+		}, 
+		{
+			"flags": 64,
+			"height": 141,
+			"name": "soldier_mask.bmp",
+			"width": 252
+		}, 
+		{
+			"flags": 0,
+			"height": 29,
+			"name": "black_beret.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "soldier_head_commander_wht.bmp",
+			"width": 384
+		}, 
+		{
+			"flags": 35,
+			"height": 64,
+			"name": "soldier_goggle_chrome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "soldier_head_shotgun.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 55,
+			"name": "soldier_shotgun_shell.bmp",
+			"width": 248
+		}, 
+		{
+			"flags": 0,
+			"height": 127,
+			"name": "soldier_argrenade.bmp",
+			"width": 124
+		}, 
+		{
+			"flags": 64,
+			"height": 256,
+			"name": "P_M16a1.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 253,
+			"name": "NULL.BMP",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 48,
+			"name": "P_shot_barrel.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 132,
+			"name": "new_worldrpg_combo.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "rocket.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "p_mp52copydarker.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "p_mp51copydarker.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "p_mp53copydarker.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 192,
+			"name": "soldier_hand_blk.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "soldier_arm_blk.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "soldier_head_grunt_blk.bmp",
+			"width": 384
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "soldier_head_commander_blk.bmp",
+			"width": 384
+		}
+	],
+	"version": 10
+}

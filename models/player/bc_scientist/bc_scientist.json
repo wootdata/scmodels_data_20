@@ -1,1 +1,135 @@
-{"seq_groups": 1, "hash": "4ee8adaf3aa5d8c9a2c57397a440a52d", "tri_count": "1701"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "./reference",
+					"polys": 1701,
+					"verts": 909
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "4ee8adaf3aa5d8c9a2c57397a440a52d",
+	"name": "C:\\Backup\\Bumper Car Models\\Models\\scientist\\scientist.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "seq-name"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "joint35",
+			"parent": -1
+		}, 
+		{
+			"name": "joint36",
+			"parent": 0
+		}, 
+		{
+			"name": "joint37",
+			"parent": 1
+		}, 
+		{
+			"name": "joint38",
+			"parent": 2
+		}, 
+		{
+			"name": "joint39",
+			"parent": 3
+		}, 
+		{
+			"name": "joint40",
+			"parent": 4
+		}, 
+		{
+			"name": "joint41",
+			"parent": 5
+		}, 
+		{
+			"name": "joint42",
+			"parent": 6
+		}, 
+		{
+			"name": "joint43",
+			"parent": 7
+		}, 
+		{
+			"name": "joint44",
+			"parent": 8
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Leather.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 47,
+			"name": "seats.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 70,
+			"name": "Clouds.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 127,
+			"name": "lowerside.bmp",
+			"width": 252
+		}, 
+		{
+			"flags": 0,
+			"height": 140,
+			"name": "bottom.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 70,
+			"name": "front.bmp",
+			"width": 80
+		}, 
+		{
+			"flags": 0,
+			"height": 53,
+			"name": "butt.bmp",
+			"width": 80
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "transparent section.bmp",
+			"width": 80
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "DM_Base.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "DM_Face.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}

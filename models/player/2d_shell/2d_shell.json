@@ -1,1 +1,45 @@
-{"seq_groups": 1, "hash": "22e1383b0987ad8758c0f32d2e3a72ac", "tri_count": "1"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "shell_reference",
+					"polys": 1,
+					"verts": 3
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "22e1383b0987ad8758c0f32d2e3a72ac",
+	"name": "shell.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "shell"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "SHELL",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "shell.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}
