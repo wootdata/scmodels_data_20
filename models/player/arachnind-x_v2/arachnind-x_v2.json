@@ -25,7 +25,7 @@
 		{
 			"models": [
 				{
-					"name": "Raptor",
+					"name": "arachnind-x_Raptor",
 					"polys": 3150,
 					"verts": 1682
 				}
@@ -146,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "65f441f36ce9537f3743f729e08d5267",
-	"name": "Arachnind-x.mdl",
+	"md5": "135ee7b4d42f082fe8e4a98fa5b27450",
+	"name": "arachnind-x.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -347,7 +347,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 34,
+			"frames": 128,
 			"name": "jump"
 		}, 
 		{
@@ -1247,7 +1247,7 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 71,
+			"frames": 66,
 			"name": "action_retina"
 		}, 
 		{
@@ -1261,7 +1261,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1487972,
+	"size": 1492328,
 	"skeleton": [
 		{
 			"name": "Bip01",

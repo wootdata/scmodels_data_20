@@ -14,6 +14,11 @@
 			"bone": 19,
 			"name": "",
 			"type": 0
+		}, 
+		{
+			"bone": 11,
+			"name": "",
+			"type": 0
 		}
 	],
 	"bodies": [
@@ -296,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "87686ccaeb6c98bae245b5e8b1ee5610",
-	"name": "Demonica.mdl",
+	"md5": "4d8a8810b06c1c2884c642b9d780d488",
+	"name": "demonica.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1256,7 +1261,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1088736,
+	"size": 1061916,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1384,15 +1389,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
+			"height": 248,
 			"name": "red_head.bmp",
-			"width": 256
+			"width": 252
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
+			"height": 247,
 			"name": "red_body.bmp",
-			"width": 256
+			"width": 252
 		}
 	],
 	"version": 10

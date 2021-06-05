@@ -66,13 +66,6 @@
 	],
 	"events": [
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/neko/nya.wav",
-			"sequence": 8,
-			"type": 0
-		}, 
-		{
 			"event": 2001,
 			"frame": 10,
 			"options": "",
@@ -82,7 +75,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/neko/nyannyan.wav",
+			"options": "voice/girl/dmg_07.wav",
 			"sequence": 12,
 			"type": 0
 		}, 
@@ -96,7 +89,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/neko/nyannyan.wav",
+			"options": "voice/girl/dmg_06.wav",
 			"sequence": 13,
 			"type": 0
 		}, 
@@ -110,7 +103,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/neko/nyannyan.wav",
+			"options": "voice/girl/dmg_05.wav",
 			"sequence": 14,
 			"type": 0
 		}, 
@@ -124,7 +117,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/neko/nyannyan.wav",
+			"options": "voice/girl/dmg_04.wav",
 			"sequence": 15,
 			"type": 0
 		}, 
@@ -138,7 +131,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/neko/nyannyan.wav",
+			"options": "voice/girl/dmg_03.wav",
 			"sequence": 16,
 			"type": 0
 		}, 
@@ -152,7 +145,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/neko/nyannyan.wav",
+			"options": "voice/girl/dmg_02.wav",
 			"sequence": 17,
 			"type": 0
 		}, 
@@ -166,7 +159,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/neko/nyannyan.wav",
+			"options": "voice/girl/dmg_01.wav",
 			"sequence": 18,
 			"type": 0
 		}, 
@@ -361,8 +354,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f077b8bab525acb427c85b34f0384af4",
-	"name": "miketama_small.mdl",
+	"md5": "ae2b9430fec218b7d8f5aaf3c5be11b9",
+	"name": "miketama_katana.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1276,7 +1269,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1134768,
+	"size": 1136596,
 	"skeleton": [
 		{
 			"name": "Bip01",
