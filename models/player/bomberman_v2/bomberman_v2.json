@@ -296,7 +296,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "c93ed41db0e832218fd212b8b31abfd7",
+	"md5": "b5b5fd24e1507492187839b05e5622f4",
 	"name": "bomberman.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -307,7 +307,7 @@
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 41,
+			"frames": 31,
 			"name": "idle"
 		}, 
 		{
@@ -317,12 +317,12 @@
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 23,
+			"frames": 25,
 			"name": "run2"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 24,
+			"frames": 17,
 			"name": "walk2handed"
 		}, 
 		{
@@ -342,7 +342,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 170,
+			"frames": 128,
 			"name": "jump"
 		}, 
 		{
@@ -402,7 +402,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_crowbar"
 		}, 
 		{
@@ -417,12 +417,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_crowbar"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 11,
+			"frames": 13,
 			"name": "crouch_shoot_crowbar"
 		}, 
 		{
@@ -512,7 +512,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_trip"
 		}, 
 		{
@@ -527,7 +527,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_trip"
 		}, 
 		{
@@ -542,12 +542,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_onehanded"
 		}, 
 		{
 			"fps": 25.000000,
-			"frames": 8,
+			"frames": 9,
 			"name": "ref_shoot_onehanded"
 		}, 
 		{
@@ -562,12 +562,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_onehanded"
 		}, 
 		{
 			"fps": 25.000000,
-			"frames": 8,
+			"frames": 9,
 			"name": "crouch_shoot_onehanded"
 		}, 
 		{
@@ -582,12 +582,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_python"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 9,
 			"name": "ref_shoot_python"
 		}, 
 		{
@@ -602,12 +602,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_python"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 9,
 			"name": "crouch_shoot_python"
 		}, 
 		{
@@ -622,12 +622,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_shotgun"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 7,
+			"frames": 17,
 			"name": "ref_shoot_shotgun"
 		}, 
 		{
@@ -642,12 +642,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_shotgun"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 8,
+			"frames": 18,
 			"name": "crouch_shoot_shotgun"
 		}, 
 		{
@@ -662,12 +662,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_gauss"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 8,
+			"frames": 11,
 			"name": "ref_shoot_gauss"
 		}, 
 		{
@@ -677,12 +677,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_gauss"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 8,
+			"frames": 11,
 			"name": "crouch_shoot_gauss"
 		}, 
 		{
@@ -692,12 +692,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_mp5"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 4,
+			"frames": 8,
 			"name": "ref_shoot_mp5"
 		}, 
 		{
@@ -712,12 +712,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_mp5"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 3,
+			"frames": 8,
 			"name": "crouch_shoot_mp5"
 		}, 
 		{
@@ -732,12 +732,12 @@
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_rpg"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 16,
+			"frames": 11,
 			"name": "ref_shoot_rpg"
 		}, 
 		{
@@ -752,12 +752,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_rpg"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 16,
+			"frames": 11,
 			"name": "crouch_shoot_rpg"
 		}, 
 		{
@@ -772,12 +772,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_egon"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_shoot_egon"
 		}, 
 		{
@@ -787,12 +787,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_egon"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_shoot_egon"
 		}, 
 		{
@@ -802,12 +802,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_squeak"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 13,
+			"frames": 11,
 			"name": "ref_shoot_squeak"
 		}, 
 		{
@@ -817,12 +817,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 30,
+			"frames": 21,
 			"name": "crouch_aim_squeak"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 13,
+			"frames": 11,
 			"name": "crouch_shoot_squeak"
 		}, 
 		{
@@ -832,12 +832,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_hive"
 		}, 
 		{
 			"fps": 17.000000,
-			"frames": 4,
+			"frames": 7,
 			"name": "ref_shoot_hive"
 		}, 
 		{
@@ -847,12 +847,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_hive"
 		}, 
 		{
 			"fps": 17.000000,
-			"frames": 5,
+			"frames": 7,
 			"name": "crouch_shoot_hive"
 		}, 
 		{
@@ -862,12 +862,12 @@
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_bow"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 31,
+			"frames": 7,
 			"name": "ref_shoot_bow"
 		}, 
 		{
@@ -892,12 +892,12 @@
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_bow"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 31,
+			"frames": 7,
 			"name": "crouch_shoot_bow"
 		}, 
 		{
@@ -1211,7 +1211,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 809404,
+	"size": 841108,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1307,9 +1307,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 189,
+			"height": 165,
 			"name": "face.bmp",
-			"width": 236
+			"width": 180
 		}, 
 		{
 			"flags": 0,
@@ -1319,9 +1319,9 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 189,
+			"height": 149,
 			"name": "body.bmp",
-			"width": 236
+			"width": 160
 		}
 	],
 	"version": 10
