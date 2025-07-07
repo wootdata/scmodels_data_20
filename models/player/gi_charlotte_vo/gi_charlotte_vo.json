@@ -840,11 +840,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7861589642d179ec679020b9375ec875",
-	"metahook_external": false,
+	"metahook_external": true,
 	"metahook_ragdoll": false,
 	"name": "GI_Charlotte.mdl",
 	"preview": true,
-	"readme": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
