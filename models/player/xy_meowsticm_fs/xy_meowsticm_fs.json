@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "67fd20b5b6f4fd3a00d492f90499ba2c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "PKMXY_MeowsticM.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

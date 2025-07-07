@@ -43,6 +43,7 @@
 			"name": "Hood"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -747,7 +748,11 @@
 	],
 	"id": 1414743113,
 	"md5": "61dbe420cdb4a8242d8056fca7613ae4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Models\\STALKER\\STALKER_Hood5\\STALKER_Hood5.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

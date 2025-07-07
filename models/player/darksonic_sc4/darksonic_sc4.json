@@ -33,6 +33,7 @@
 			"name": "Sonic_the_Hegdehog"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -370,7 +371,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ec73ba8fc2a778cd558f65722d519fbd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kirpisonic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

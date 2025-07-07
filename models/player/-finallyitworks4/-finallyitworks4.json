@@ -123,6 +123,7 @@
 			"name": "LoliPirate"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -547,7 +548,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6fb51f238b46ac09ef41dc35e039b77f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "-finallyitworks2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

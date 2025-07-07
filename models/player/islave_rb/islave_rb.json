@@ -23,6 +23,7 @@
 			"name": "islave"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 47,
@@ -143,7 +144,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4657116a6125de6fd10a9963572e8bac",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Downloads\\edits,modles, maps\\modles\\aliens\\islave_toxic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

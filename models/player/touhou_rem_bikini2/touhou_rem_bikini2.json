@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b56ba41297c83a5ccf848596ecbc80fa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_remilia_bikini_n.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

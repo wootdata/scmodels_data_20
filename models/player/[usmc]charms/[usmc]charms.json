@@ -68,6 +68,7 @@
 			"name": "misc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -394,7 +395,11 @@
 	],
 	"id": 1414743113,
 	"md5": "53c80544085b7d23cdffb20c522edcbd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USMC]Charms.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

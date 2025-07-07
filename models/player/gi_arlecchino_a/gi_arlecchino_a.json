@@ -163,6 +163,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -804,7 +805,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ecfbe65ad34fc1e9f03843666b41cc1e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Hololive_Botan.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

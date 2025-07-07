@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -371,7 +372,11 @@
 	],
 	"id": 1414743113,
 	"md5": "db61e912a8a2f512d54ca86355ffae21",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kasane_teto.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

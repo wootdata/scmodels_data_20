@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -422,7 +423,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b46e93721e30dc5784de3547f4bb924a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cappie_v2.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

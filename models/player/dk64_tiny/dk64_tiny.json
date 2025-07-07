@@ -33,6 +33,7 @@
 			"name": "tiney"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fb96361868b207761b664f8dcd4cfc09",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DK64_Tiny.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

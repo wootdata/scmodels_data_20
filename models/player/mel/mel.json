@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -592,7 +593,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ff251d9e0c48fb22bb02d54af7e2f76d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Yervin\\Documents\\Modelos 3d\\Modelo completo Sven Co-op\\K1",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

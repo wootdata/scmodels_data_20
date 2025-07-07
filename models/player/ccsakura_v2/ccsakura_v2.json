@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 48,
@@ -354,7 +355,11 @@
 	],
 	"id": 1414743113,
 	"md5": "54da9666aa47979d74c10be18da09e81",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ccsakura.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

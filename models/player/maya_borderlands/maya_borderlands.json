@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -381,7 +382,11 @@
 	],
 	"id": 1414743113,
 	"md5": "be1af2361af8db320d35cd4e66a45a19",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Maya.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

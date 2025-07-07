@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -379,7 +380,11 @@
 	],
 	"id": 1414743113,
 	"md5": "72927b4945caf652af072714e89a6af5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tf2_spy_blue.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

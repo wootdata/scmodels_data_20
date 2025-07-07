@@ -17,6 +17,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1262710418,
 	"events": [
@@ -254,7 +255,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7e734740498ec58c1003669ea072f26a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "arnold.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

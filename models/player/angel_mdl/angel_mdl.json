@@ -83,6 +83,7 @@
 			"name": "weapons"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 51,
@@ -960,7 +961,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e3a358b01b9a3e78d5a21c541b0fa1e2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "swat.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

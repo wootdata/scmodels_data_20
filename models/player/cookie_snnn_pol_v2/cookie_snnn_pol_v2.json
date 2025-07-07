@@ -253,6 +253,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -533,7 +534,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9ab4698a544da4c19d8ec8333b381e5c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Cookie_SNNN_Pol.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

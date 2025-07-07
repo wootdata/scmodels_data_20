@@ -33,6 +33,7 @@
 			"name": "Miles_'Tails'_Prower"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -309,7 +310,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e5ed4eddef1723b898ec03acc39ec2e0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tails_sc4.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

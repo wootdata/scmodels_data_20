@@ -98,6 +98,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -368,7 +369,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c479103289137bfdd8110eb164e48fb1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Joshua\\Desktop\\ToyFoxy\\ToyFoxy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

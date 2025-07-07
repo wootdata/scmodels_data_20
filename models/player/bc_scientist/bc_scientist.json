@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [],
 	"date": 1048138560,
 	"events": [],
 	"id": 1414743113,
 	"md5": "4ee8adaf3aa5d8c9a2c57397a440a52d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Backup\\Bumper Car Models\\Models\\scientist\\scientist.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

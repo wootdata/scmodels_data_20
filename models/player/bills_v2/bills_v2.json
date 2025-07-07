@@ -63,6 +63,7 @@
 			"name": "davidManeyro"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -340,7 +341,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a4a81316ea6eb2d806de97867b4eaae4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bills_tc.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

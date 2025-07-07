@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 41,
@@ -316,7 +317,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ce47e87113cb3935a0a5204459ff536b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HEV_zard.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "Made by DGF"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e1e250a996d0a9fd74158ba2eee1c4c6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kate.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

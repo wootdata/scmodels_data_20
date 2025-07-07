@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1538819694,
 	"events": [],
 	"id": 1414743113,
 	"md5": "22e1383b0987ad8758c0f32d2e3a72ac",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "shell.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

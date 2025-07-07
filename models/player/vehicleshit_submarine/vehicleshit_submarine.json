@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1481247733,
 	"events": [],
 	"id": 1414743113,
 	"md5": "8be0339abde7f94fc4df580c374fd7c9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\Documents and Settings\\Administrator\\Desktop\\laguna\\sub\\lag_sj",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

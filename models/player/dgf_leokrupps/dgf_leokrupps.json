@@ -33,6 +33,7 @@
 			"name": "Made by DGF"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "34e9817df97f0e9d5cb3b0274b83d55c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "beret.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

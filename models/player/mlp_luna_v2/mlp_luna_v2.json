@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -383,7 +384,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f0912aceaa2b78ff41655069e7957040",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mlp_luna.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "Hacky Transparency Fix"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -650,7 +651,11 @@
 	],
 	"id": 1414743113,
 	"md5": "549a80d66b23dc270a847b76515842ad",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Holo_Baelz_LowPoly/Holo_Baelz_LowPoly.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

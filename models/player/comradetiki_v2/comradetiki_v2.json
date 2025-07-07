@@ -43,6 +43,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 9,
@@ -279,7 +280,11 @@
 	],
 	"id": 1414743113,
 	"md5": "31b425066cb1183d2f6a6aeb39c26a2f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ComradeTiki.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

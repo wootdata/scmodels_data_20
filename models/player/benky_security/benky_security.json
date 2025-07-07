@@ -28,6 +28,7 @@
 			"name": "security"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -256,7 +257,11 @@
 	],
 	"id": 1414743113,
 	"md5": "46875cf887bb3a1739846c7944ceefe3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Benky_security.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

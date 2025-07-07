@@ -58,6 +58,7 @@
 			"name": "Armour"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a1e4148d5f1ac6dda580e18524da1f2a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USMC]LCpl_Kyle.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

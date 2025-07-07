@@ -22,12 +22,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1121214704,
 	"events": [],
 	"id": 1414743113,
 	"md5": "ca3782c59328292366e2f3f21894e1ac",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RRViper.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

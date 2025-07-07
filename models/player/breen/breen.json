@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -182,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "431caf20dd384074484be0237e3e5a1b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Breen.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

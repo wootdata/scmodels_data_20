@@ -33,6 +33,7 @@
 			"name": "Juan"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7da351f6e94826536853f72002ad2e46",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "31Minutos_Juan.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

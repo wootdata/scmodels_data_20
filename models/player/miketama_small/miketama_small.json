@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -356,7 +357,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ae2b9430fec218b7d8f5aaf3c5be11b9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "miketama_katana.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 9,
@@ -195,7 +196,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9c8a0f00a21cc5e8c44d6804c7cf4a86",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\mcl\\Desktop\\HLModels\\robo\\pyroman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

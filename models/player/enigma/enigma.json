@@ -38,6 +38,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 36,
@@ -292,7 +293,11 @@
 	],
 	"id": 1414743113,
 	"md5": "72b4e9ea0743ae3aebbc622aae8245a6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "enigma.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

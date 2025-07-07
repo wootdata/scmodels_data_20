@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "29c39a6ad4570c4f8be6e56a1ab3dacf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BS_Unarmored_Barney_2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

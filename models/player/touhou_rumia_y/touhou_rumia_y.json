@@ -203,6 +203,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -810,7 +811,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b7acdba509fc9c25d1729717f0b94980",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GFL_Negev.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

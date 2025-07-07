@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -290,7 +291,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9adb2ad0e5b9fe5330967527e3f649db",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "vanMaxLD.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
