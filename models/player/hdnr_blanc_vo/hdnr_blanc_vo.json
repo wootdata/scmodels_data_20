@@ -135,7 +135,7 @@
 			"type": 32
 		}
 	],
-	"date": 1630342241,
+	"date": 1780811530,
 	"events": [
 		{
 			"event": 5004,
@@ -793,6 +793,7 @@
 	"md5": "6933e2c144c038653d0440930c02688e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "HDNR_Blanc.mdl",
 	"preview": true,
 	"readme": false,

@@ -14,100 +14,15 @@
 			"bone": 24,
 			"name": "",
 			"type": 0
-		}, 
-		{
-			"bone": 19,
-			"name": "",
-			"type": 0
 		}
 	],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "pacman",
-					"polys": 1390,
-					"verts": 714
-				}
-			],
-			"name": "PAC-MAN"
-		}, 
-		{
-			"models": [
-				{
-					"name": "pacman2",
-					"polys": 3434,
-					"verts": 1805
-				}
-			],
-			"name": "PAC-MAN"
-		}, 
-		{
-			"models": [
-				{
-					"name": "robot",
-					"polys": 2325,
-					"verts": 1229
-				}
-			],
-			"name": "Robot"
-		}, 
-		{
-			"models": [
-				{
-					"name": "robot2",
-					"polys": 2099,
-					"verts": 1098
-				}
-			],
-			"name": "Robot"
-		}, 
-		{
-			"models": [
-				{
-					"name": "robot3",
-					"polys": 190,
-					"verts": 136
-				}
-			],
-			"name": "Robot"
-		}, 
-		{
-			"models": [
-				{
-					"name": "robot6",
-					"polys": 3452,
-					"verts": 1777
-				}
-			],
-			"name": "Robot"
-		}, 
-		{
-			"models": [
-				{
-					"name": "robot7",
-					"polys": 932,
-					"verts": 484
-				}
-			],
-			"name": "Robot"
-		}, 
-		{
-			"models": [
-				{
-					"name": "robot4",
-					"polys": 932,
-					"verts": 484
-				}
-			],
-			"name": "Robot"
-		}, 
-		{
-			"models": [
-				{
-					"name": "Gordon_Hi-ResDM1",
-					"polys": 639,
-					"verts": 56
+					"name": "a_simon_new",
+					"polys": 1088,
+					"verts": 548
 				}
 			],
 			"name": "body"
@@ -115,18 +30,38 @@
 		{
 			"models": [
 				{
-					"name": "robot5",
-					"polys": 3116,
-					"verts": 1595
+					"name": "airborne_head",
+					"polys": 2217,
+					"verts": 1181
 				}
 			],
-			"name": "Robot"
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "hair",
+					"polys": 5122,
+					"verts": 951
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "GORDON_HEV_BODY",
+					"polys": 586,
+					"verts": 300
+				}
+			],
+			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 12,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -134,7 +69,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 13,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -142,7 +77,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 14,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -150,7 +85,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 15,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -158,22 +93,8 @@
 			"type": 8
 		}
 	],
-	"date": 1780811530,
+	"date": 1775969080,
 	"events": [
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/pacman_sfxt/jump.wav",
-			"sequence": 8,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/pacman_sfxt/long_jump.wav",
-			"sequence": 9,
-			"type": 0
-		}, 
 		{
 			"event": 2001,
 			"frame": 9,
@@ -282,14 +203,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -404,45 +325,31 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/pacman_sfxt/lose.wav",
-			"sequence": 182,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/pacman_sfxt/lose.wav",
-			"sequence": 184,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "98c61c1bafbf3747cca5c073410e0f73",
+	"md5": "0eb1c151235a0ad44f18c19e7acd031a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "pac-man_sfxt.mdl",
+	"name": "Andre_C_PainHider.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
-			"frames": 31,
+			"frames": 41,
 			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 31,
+			"frames": 41,
 			"name": "idle"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 41,
 			"name": "deep_idle"
 		}, 
 		{
@@ -1384,9 +1291,104 @@
 			"fps": 10.000000,
 			"frames": 22,
 			"name": "action_wave"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "pro"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 1,
+			"name": "Bowing"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 10,
+			"name": "ImperiumSvenCoop"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 1,
+			"name": "Lewrid"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 51,
+			"name": "sleep"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 201,
+			"name": "awake"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 51,
+			"name": "chairsad"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 21,
+			"name": "fall"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 151,
+			"name": "intro_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 151,
+			"name": "intro_take"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 391,
+			"name": "intro_turn"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 47,
+			"name": "intro_walk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 47,
+			"name": "intro_walk_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "pickdown_crouch"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "pickupcrouch"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "pickupstand"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 246,
+			"name": "HLDance"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 206,
+			"name": "DefaultDance"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 99,
+			"name": "Hype"
 		}
 	],
-	"size": 1743600,
+	"size": 2558428,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1409,16 +1411,32 @@
 			"parent": 3
 		}, 
 		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 L Toe01",
+			"parent": 5
+		}, 
+		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
+			"parent": 7
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 6
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Toe01",
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -1426,123 +1444,79 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 8
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
 			"parent": 13
 		}, 
 		{
-			"name": "Bip01 R Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm2",
+			"name": "Bip01 Spine3",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 Neck",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Arm2",
 			"parent": 18
 		}, 
 		{
-			"name": "Bip01 L Finger1",
+			"name": "Bip01 L Hand",
 			"parent": 19
 		}, 
 		{
-			"name": "Bip01 L Finger11",
-			"parent": 20
+			"name": "Bip01 R Arm",
+			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger12",
+			"name": "Bip01 R Arm1",
 			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 16
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Hand",
 			"parent": 23
 		}, 
 		{
-			"name": "Bip01 R Finger1",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 26
-		}, 
-		{
-			"name": "Dummy08",
-			"parent": 17
-		}, 
-		{
-			"name": "Bone02",
-			"parent": 28
-		}, 
-		{
-			"name": "Dummy04",
-			"parent": 17
-		}, 
-		{
-			"name": "Bone05",
-			"parent": 30
-		}, 
-		{
-			"name": "Dummy03",
-			"parent": 17
-		}, 
-		{
-			"name": "Bone07",
-			"parent": 32
-		}, 
-		{
-			"name": "Dummy10",
-			"parent": 17
-		}, 
-		{
-			"name": "Bone13",
-			"parent": 34
+			"name": "Bip01 Head",
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Finger0",
-			"parent": 19
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 L Finger01",
-			"parent": 36
+			"parent": 26
 		}, 
 		{
 			"name": "Bip01 L Finger02",
-			"parent": 37
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 30
 		}, 
 		{
 			"name": "Bip01 R Finger0",
@@ -1550,11 +1524,23 @@
 		}, 
 		{
 			"name": "Bip01 R Finger01",
-			"parent": 39
+			"parent": 32
 		}, 
 		{
 			"name": "Bip01 R Finger02",
-			"parent": 40
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 35
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 36
 		}
 	],
 	"skins": 1,
@@ -1562,33 +1548,57 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "PAC-MAN.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 34,
-			"height": 242,
-			"name": "Robot_Vidrio.bmp",
-			"width": 140
-		}, 
-		{
-			"flags": 0,
-			"height": 339,
-			"name": "PAC-MAN_arcade.bmp",
-			"width": 272
-		}, 
-		{
-			"flags": 32,
 			"height": 256,
-			"name": "DM_Base.bmp",
+			"name": "shoe_cut.bmp",
 			"width": 256
 		}, 
 		{
-			"flags": 32,
+			"flags": 0,
+			"height": 512,
+			"name": "Leatherhoff_Jeans.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Leatherhoff_Hoodie.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "erdim_cylmap.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "eyeball_l.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "eyeball_r.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
 			"height": 128,
-			"name": "DM_Face.bmp",
-			"width": 128
+			"name": "mouth.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 64,
+			"height": 512,
+			"name": "hair.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "andrew_hev_hands.bmp",
+			"width": 256
 		}
 	],
 	"version": 10

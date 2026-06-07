@@ -86,7 +86,7 @@
 			"type": 8
 		}
 	],
-	"date": 1130425200,
+	"date": 1780811530,
 	"events": [
 		{
 			"event": 2001,
@@ -198,6 +198,7 @@
 	"md5": "9c8a0f00a21cc5e8c44d6804c7cf4a86",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\Documents and Settings\\mcl\\Desktop\\HLModels\\robo\\pyroman.mdl",
 	"preview": true,
 	"readme": false,

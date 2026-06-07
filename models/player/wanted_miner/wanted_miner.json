@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1117771786,
+	"date": 1780811530,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "bdfaae76878b56307dbd53735e2251f7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\Program Files\\MilkShape 3D\\Wanted\\MP Models\\miner.mdl",
 	"preview": false,
 	"readme": false,
